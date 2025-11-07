@@ -1,12 +1,12 @@
 # Data_Cleaning_and_Exploratory_Data_Analysis_Project_in_MySQL
 
 ## Overview
-This project demonstrates my SQL programming skills through data cleaning and exploratory data analysis (EDA) using a real-world dataset on global layoffs from 2020–2023. The goal was to transform messy, inconsistent data into clean, usable insights — mirroring a realistic analytics workflow.
+This project demonstrates my SQL programming skills through data cleaning and exploratory data analysis (EDA) using a real-world dataset on global layoffs from 2020–2023. The goal was to transform messy, inconsistent data into clean, usable insights, mirroring a realistic analytics workflow.
 
 ## Dataset
-Source: Kaggle - Layoffs 2022 Dataset
+Source: [Kaggle - Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
-Description: Records of tech layoffs across industries, including company name, location, date, and number of employees affected.
+Description: Records of tech layoffs across industries, including company name, location, date, and number of employees laid off.
 
 Size: ~2,000 records
 
@@ -14,7 +14,7 @@ Size: ~2,000 records
 In Data_Cleaning_Project.sql:
 - Removed duplicates
 - Standardized company names and industries
-- Handled null or missing values
+- Handled NULL and missing values
 - Reformatted date fields
 
 ## Exploratory Data Analysis
@@ -23,4 +23,5 @@ In EDA_Project.sql:
 
 ## Tools Used
 SQL (MySQL)
+
 Kaggle for dataset source
