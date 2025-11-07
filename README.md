@@ -12,16 +12,15 @@ Size: ~2,000 records
 
 ## Data Cleaning Steps
 In Data_Cleaning_Project.sql:
-- Removed duplicates
-- Standardized company names and industries
+- Removed duplicate records
+- Standardized data and fixed errors in location and industry fields 
 - Handled NULL and missing values
-- Reformatted date fields
+- Reformatted date field
 
 ## Exploratory Data Analysis
 In EDA_Project.sql:
 - TBA
 
 ## Tools Used
-SQL (MySQL)
-
-Kaggle for dataset source
+- SQL (MySQL)
+- Kaggle for dataset source
