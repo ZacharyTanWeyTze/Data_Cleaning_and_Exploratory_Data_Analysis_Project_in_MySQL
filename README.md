@@ -11,13 +11,14 @@ Description: Records of tech layoffs across industries, including company name, 
 Size: ~2,000 records
 
 ## Data Cleaning Steps
-Performed in data_cleaning.sql:
+In Data_Cleaning_Project.sql:
 - Removed duplicates
 - Standardized company names and industries
 - Handled null or missing values
 - Reformatted date fields
 
 ## Exploratory Data Analysis
+In EDA_Project.sql:
 - TBA
 
 ## Tools Used
