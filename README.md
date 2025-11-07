@@ -5,7 +5,9 @@ This project demonstrates my SQL programming skills through data cleaning and ex
 
 ## Dataset
 Source: Kaggle - Layoffs 2022 Dataset
+
 Description: Records of tech layoffs across industries, including company name, location, date, and number of employees affected.
+
 Size: ~2,000 records
 
 ## Data Cleaning Steps
@@ -16,7 +18,7 @@ Performed in data_cleaning.sql:
 - Reformatted date fields
 
 ## Exploratory Data Analysis
-TBA
+- TBA
 
 ## Tools Used
 SQL (MySQL)
