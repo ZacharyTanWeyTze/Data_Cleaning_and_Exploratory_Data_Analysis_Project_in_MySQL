@@ -6,7 +6,7 @@ This project demonstrates my SQL programming skills through data cleaning and ex
 ## Dataset
 Source: [Kaggle - Layoffs Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
-Description: Records of tech layoffs across industries, including company name, location, date, and number of employees laid off.
+Description: Records of reported tech layoffs across industries, including company name, location, date, and number of employees laid off.
 
 Size: ~2,000 records
 
@@ -19,7 +19,9 @@ In Data_Cleaning_Project.sql:
 
 ## Exploratory Data Analysis
 In EDA_Project.sql:
-- TBA
+- Total layoffs by year, industry, and country
+- Trend of layoffs over time via rolling sum month-by-month across 2020-2023
+- Top 5 companies with the highest layoffs per year
 
 ## Tools Used
 - SQL (MySQL)
